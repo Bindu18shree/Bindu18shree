@@ -4,8 +4,6 @@
 
 <img align="right" alt="Coding" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiPRKxBOAMXwcU-xN-K7d-II-ZZBiP0nHUrg&s">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bindushree&label=Profile%20views&color=0e75b6&style=flat" alt="bindushree" /> </p>
-
 # 💫 About Me:
 🌱 I’m currently learning Full-stack development with Java<br><br>💬 Ask me about Java, HTML, CSS, Javascript, Bootstrap<br><br>📫 How to reach me bindushree0018@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1EQqU90U7TQHihDNNvi-0I2Lc6lOzZRkq/view?usp=drive_link
 
